@@ -129,6 +129,7 @@ body {
   align-items: center;
   color: #5a6b87;
   padding: 5px 12px;
+  cursor: pointer;
 }
 /* slider-section */
 .slider-section .slider {
